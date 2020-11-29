@@ -2,6 +2,7 @@
 
 #include "GL.hpp"
 #include <map>
+#include <string>
 
 //"MeshBuffer" holds a collection of meshes loaded from a file
 // (note that meshes in a single collection will share a vbo/vao)
